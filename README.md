@@ -67,7 +67,7 @@ const zangafigue = {
 |---------|-------------|-------|
 | [Quiz Game](https://github.com/Zangafigue/Quiz_Game) | Terminal-based quiz game | Python |
 | [GymX](https://github.com/Zangafigue/GymX) | Gym website front-end | HTML · CSS |
-| [Agroconnect-web](https://github.com/Zangafigue/agroconnect-web) | |
+| [Agroconnect-web](https://github.com/Zangafigue/agroconnect-web) | Web inteface for famers, buyers and deliverers | React + Vite |
 
 > More projects coming soon.
 
