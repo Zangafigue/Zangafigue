@@ -9,13 +9,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const zangafigue = {
   name:        "Zangafigue Mathias TRAORE",
   school:      "Burkina Institute of Technology (BIT)",
-  location:    "Koudougou, Burkina Faso 🇧🇫",
+  location:    "Koudougou, Burkina Faso ",
   year:        "2nd year CS — Programming & Entrepreneurship",
 
   stack: {
@@ -32,7 +32,7 @@ const zangafigue = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,flutter&theme=dark)](https://skillicons.dev)
@@ -48,7 +48,7 @@ const zangafigue = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zangafigue&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -61,18 +61,19 @@ const zangafigue = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Quiz Game](https://github.com/Zangafigue/Quiz_Game) | Terminal-based quiz game | Python |
 | [GymX](https://github.com/Zangafigue/GymX) | Gym website front-end | HTML · CSS |
+| [Agroconnect-web](https://github.com/Zangafigue/agroconnect-web) | |
 
 > More projects coming soon.
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="left">
   <a href="mailto:mathiastraore08@gmail.com">
