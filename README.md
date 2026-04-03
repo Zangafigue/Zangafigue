@@ -15,7 +15,7 @@
 const zangafigue = {
   name:        "Zangafigue Mathias TRAORE",
   school:      "Burkina Institute of Technology (BIT)",
-  location:    "Koudougou, Burkina Faso ",
+  location:    "Koudougou, Burkina Faso",
   year:        "2nd year CS — Programming & Entrepreneurship",
 
   stack: {
@@ -25,7 +25,7 @@ const zangafigue = {
     learning:  ["PHP", "Java", "C", "Algorithms & Data Structures"],
   },
 
-  currentFocus: "Building real-world projects to level up my skills",
+  currentFocus: "Building AgroConnect BF — a B2B agricultural platform for Burkina Faso",
   philosophy:   "Learn by building. Ship imperfect things. Improve every day.",
 };
 ```
@@ -43,7 +43,7 @@ const zangafigue = {
 ### Currently deepening
 [![Learning](https://skillicons.dev/icons?i=php,java,c&theme=dark)](https://skillicons.dev)
 
-### Outils
+### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
@@ -65,10 +65,11 @@ const zangafigue = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [AgroConnect Web](https://github.com/Zangafigue/agroconnect-web) | B2B agricultural platform for farmers, buyers and transporters | React · Vite · Tailwind |
+| [AgroConnect API](https://github.com/Zangafigue/agroconnect-backend) | REST API for the AgroConnect platform | Node.js · Express · MongoDB |
+| [AgroConnect Mobile](https://github.com/Zangafigue/agroconnect-mobile) | Mobile app for farmers and transporters | Flutter · Dart |
 | [Quiz Game](https://github.com/Zangafigue/Quiz_Game) | Terminal-based quiz game | Python |
-| [GymX](https://github.com/Zangafigue/GymX) | Gym website front-end | HTML · CSS |
-| [Agroconnect-web](https://github.com/Zangafigue/agroconnect-web) | Web inteface for famers, buyers and deliverers | React + Vite |
-
+| [GymX] | Responsive gym website with booking, trainers & dark mode | HTML · CSS · JS |
 > More projects coming soon.
 
 ---
