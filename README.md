@@ -1,9 +1,6 @@
 <!-- BANNIÈRE -->
 ![Profile banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-<!-- TITRE ANIMÉ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&multiline=true&width=760&height=100&lines=🎓+2nd+year+CS+%40+BIT+Burkina+Faso;💻+Full-Stack+Dev+%7C+Flutter+·+React+·+Node.js;Building+real+things,+one+commit+at+a+time+🚀)](https://git.io/typing-svg)
-
 <!-- BADGE COMMITTERS.TOP -->
 [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/Zangafigue.svg)](https://user-badge.committers.top/burkina_faso_private/Zangafigue)
 
