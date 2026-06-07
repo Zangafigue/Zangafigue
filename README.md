@@ -1,7 +1,6 @@
 <!-- BANNIÈRE -->
 ![Profile banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-<!-- BADGE COMMITTERS.TOP -->
 [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/Zangafigue.svg)](https://user-badge.committers.top/burkina_faso_private/Zangafigue)
 
 ---
@@ -16,13 +15,16 @@ const zangafigue = {
   year:        "2nd year CS — Programming & Entrepreneurship",
 
   stack: {
-    frontend:  ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Flutter"],
-    backend:   ["Node.js", "Python"],
-    databases: ["MongoDB", "MySQL"],
-    learning:  ["PHP", "Java", "C", "Algorithms & Data Structures"],
+    frontend:  ["React 19", "TypeScript", "Vue.js", "Tailwind CSS", "Three.js"],
+    mobile:    ["Flutter / Dart"],
+    backend:   ["Node.js / Express", "Python (Django, FastAPI, Flask)"],
+    databases: ["PostgreSQL / Supabase", "MongoDB", "MySQL"],
+    design:    ["Figma", "Stitch"],
+    learning:  ["PHP", "Java"],
   },
 
-  currentFocus: "Building AgroConnect BF — a B2B agricultural platform for Burkina Faso",
+  interests:    ["AI / LLM integration", "Cybersecurity", "Entrepreneurship"],
+  currentFocus: "AgroConnect BF (B2B agri) & Zamsma (educational mobile game)",
   philosophy:   "Learn by building. Ship imperfect things. Improve every day.",
 };
 ```
@@ -31,17 +33,14 @@ const zangafigue = {
 
 ## Tech Stack
 
-### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,flutter&theme=dark)](https://skillicons.dev)
+### Languages & Frameworks
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,threejs,flutter,dart,nodejs,express,python,django,fastapi,flask&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql&theme=dark)](https://skillicons.dev)
+### Data, DevOps & Tools
+[![Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,redis,docker,git,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
 ### Currently deepening
-[![Learning](https://skillicons.dev/icons?i=php,java,c&theme=dark)](https://skillicons.dev)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,java&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -62,12 +61,21 @@ const zangafigue = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AgroConnect Web](https://github.com/Zangafigue/agroconnect-web) | B2B agricultural platform for farmers, buyers and transporters | React · Vite · Tailwind |
-| [AgroConnect API](https://github.com/Zangafigue/agroconnect-backend) | REST API for the AgroConnect platform | Node.js · Express · MongoDB |
-| [AgroConnect Mobile](https://github.com/Zangafigue/agroconnect-mobile) | Mobile app for farmers and transporters | Flutter · Dart |
-| [Quiz Game](https://github.com/Zangafigue/Quiz_Game) | Terminal-based quiz game | Python |
-| [GymX] | Responsive gym website with booking, trainers & dark mode | HTML · CSS · JS |
-> More projects coming soon.
+| [Zamsma](https://github.com/Zangafigue/Valence) | Offline-first chemistry puzzle game — Hackathon HGE 2026 | Flutter · Django · PostgreSQL |
+| [GymX v2](https://github.com/Zangafigue/GymX-v2) | Premium gym-management SaaS (RBAC, real-time booking) | React 19 · TypeScript · Supabase |
+| [CV Builder Pro](https://github.com/Zangafigue/cv-builder) | AI-powered CV builder — 14 templates, ATS PDF/DOCX export | React 19 · Vite · Gemini |
+| [AgroConnect BF](https://github.com/Zangafigue/agroconnect-web) | B2B agricultural platform — web + mobile + API (Lead Dev) | React · Flutter · Node/Express |
+| [KnowHub Automation](https://github.com/Zangafigue/knowhub-automation) | After-sale automation with AI content generation | Python · FastAPI · Groq |
+| [School Management App](https://github.com/RayaneBICABA/School_management_app) | Collaborative school-management platform | Vue · JavaScript · Docker |
+
+---
+
+## Certifications & Hackathons
+
+- 🔐 **Introduction to Critical Infrastructure Protection (ICIP)** — OPSWAT Academy
+- 🤖 **Model Context Protocol (MCP)** & **AI Fluency** — Anthropic Academy
+- 📋 **Google Project Management** (Foundations & Project Initiation) — Google / Coursera
+- 🏆 Hackathons: **HUAWEI ICT Competition** (Network, national) · **Cybersecurity – Merradis Academy** · **Hackathon des Grandes Écoles** (Team Mirror — Zamsma)
 
 ---
 
