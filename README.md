@@ -20,7 +20,6 @@ I am a Computer Science student at Burkina Institute of Technology. I build web 
 
 <p align="center">
   <a href="https://user-badge.committers.top/burkina_faso_private/Zangafigue"><img src="https://user-badge.committers.top/burkina_faso_private/Zangafigue.svg" alt="Zangafigue's ranking among Burkina Faso committers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Zangafigue&color=16a34a&style=flat-square" alt="Profile views" />
 </p>
 
 ## What I am working on now
@@ -58,8 +57,6 @@ The project is currently in public discovery and experimentation. A browser-base
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,django,fastapi,nestjs,postgres,supabase,mongodb,mysql,docker,git,github,figma" alt="Mobile, backend, data and product tools" /></a>
 
-Next.js and NestJS are included because I am actively consolidating them through project work; the selected projects above show where I have already used the other tools.
-
 ## GitHub activity
 
 <p align="center">
@@ -86,6 +83,19 @@ Away from the screen, you will often find me on a basketball court or singing wi
 
 I am interested in web and mobile products, practical AI, developer tools, education and technology designed for African contexts.
 
-[Portfolio](https://portfolio-zangafigue.vercel.app) · [All my links](https://linktr.ee/zangafigue) · [Email](mailto:mathiastraore08@gmail.com)
+<p align="center">
+  <a href="https://portfolio-zangafigue.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linktr.ee/zangafigue"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=111827" alt="All links" /></a>
+  <a href="https://x.com/Zanga286"><img src="https://img.shields.io/badge/X-0F1727?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mathiastraore08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zangafigue&color=16a34a&style=flat-square" alt="Profile views" />
+</p>
 
 *Building with curiosity, rhythm and a lot of luck.* 🍀🍀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:0f172a&height=60&section=footer&animation=twinkling" alt="" width="100%" />
+</p>
