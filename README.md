@@ -2,6 +2,8 @@
   <img src="assets/profile-banner.png" alt="Zangafigué — Web & Mobile, products and entrepreneurship" width="100%" />
 </p>
 
+<h1 align="center">Zangafigué 🍀🍀</h1>
+
 <p align="center">
   <strong>Web & Mobile Developer · Computer Science Student & Builder</strong><br />
   From Burkina Faso · currently in Lomé, Togo
@@ -10,9 +12,15 @@
 I am a Computer Science student at Burkina Institute of Technology. I build web and mobile products from practical problems, paying particular attention to constrained connectivity, modest devices and the realities of West Africa.
 
 <p align="center">
-  <a href="https://portfolio-zangafigue.vercel.app">Portfolio</a> ·
-  <a href="https://linktr.ee/zangafigue">Linktree</a> ·
-  <a href="mailto:mathiastraore08@gmail.com">Email</a>
+  <a href="https://portfolio-zangafigue.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linktr.ee/zangafigue"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=111827" alt="Linktree" /></a>
+  <a href="https://github.com/Zangafigue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:mathiastraore08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/burkina_faso_private/Zangafigue"><img src="https://user-badge.committers.top/burkina_faso_private/Zangafigue.svg" alt="Zangafigue's ranking among Burkina Faso committers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Zangafigue&color=16a34a&style=flat-square" alt="Profile views" />
 </p>
 
 ## What I am working on now
@@ -42,13 +50,25 @@ The project is currently in public discovery and experimentation. A browser-base
 
 ## What I work with
 
-- **Web:** React, TypeScript, JavaScript, Next.js, Vue.js and Tailwind CSS.
-- **Mobile:** Flutter and Dart, including offline-first application patterns.
-- **Backend:** Node.js, Express, Django REST Framework and Flask; currently consolidating NestJS through project work.
-- **Data:** PostgreSQL, Supabase, MongoDB and MySQL.
-- **Product and tooling:** Git, GitHub, Docker, Figma and interface prototyping.
+**Web**
 
-These are working tools, not a badge collection. The projects above show where and how I have used them.
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" alt="Web technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js and Tailwind CSS" /></a>
+
+**Mobile · backend · data · product**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,django,fastapi,nestjs,postgres,supabase,mongodb,mysql,docker,git,github,figma" alt="Mobile, backend, data and product tools" /></a>
+
+Next.js and NestJS are included because I am actively consolidating them through project work; the selected projects above show where I have already used the other tools.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zangafigue&theme=transparent" alt="GitHub contribution summary" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zangafigue&theme=transparent&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+</p>
 
 ## Beyond the code
 
