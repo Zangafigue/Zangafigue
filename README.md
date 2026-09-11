@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.png" alt="Zangafigué — Web & Mobile, products and entrepreneurship" width="100%" />
 </p>
 
-<h1 align="center">Zangafigué 🍀🍀</h1>
+<h1 align="center">ZANGAFIGUÉ 🍀🍀</h1>
 
 <p align="center">
   <strong>Web & Mobile Developer · Computer Science Student & Builder</strong><br />
