@@ -9,7 +9,7 @@
   From Burkina Faso · currently in Lomé, Togo
 </p>
 
-I am a Computer Science student at Burkina Institute of Technology. I build web and mobile products from practical problems, paying particular attention to constrained connectivity, modest devices and the realities of West Africa.
+Cybersecurity and ethical hacking were what first pulled me toward computing. I am a Computer Science student at Burkina Institute of Technology, building web and mobile products from practical problems while paying particular attention to constrained connectivity, modest devices and the realities of West Africa.
 
 <p align="center">
   <a href="https://portfolio-zangafigue.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -28,6 +28,7 @@ I am a Computer Science student at Burkina Institute of Technology. I build web 
 - Building [**Démotivateur**](https://github.com/Zangafigue/demotivateur) in public: an adaptive, consent-based confrontation agent exploring how words can lead to measurable action.
 - Running a 30-day experiment around consistent publishing and product progress.
 - Deepening my Flutter and product-engineering practice while continuing to learn NestJS and Next.js through project work.
+- Researching privacy-preserving, user-controlled security tools as part of a longer-term path toward AI and cybersecurity.
 
 ## Selected work
 
