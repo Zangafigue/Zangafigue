@@ -15,7 +15,7 @@ Cybersecurity and ethical hacking were what first pulled me toward computing. I 
   <a href="https://portfolio-zangafigue.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linktr.ee/zangafigue"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=111827" alt="Linktree" /></a>
   <a href="https://github.com/Zangafigue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:mathiastraore08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mathiaszangafigue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ I am interested in web and mobile products, practical AI, developer tools, educa
   <a href="https://portfolio-zangafigue.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linktr.ee/zangafigue"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=111827" alt="All links" /></a>
   <a href="https://x.com/Zanga286"><img src="https://img.shields.io/badge/X-0F1727?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:mathiastraore08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mathiaszangafigue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
